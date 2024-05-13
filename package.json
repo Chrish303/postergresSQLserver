@@ -1,0 +1,23 @@
+{
+  "name": "posterapollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "apollo": "^2.34.0",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "npm": "^10.7.0",
+    "pg": "^8.11.5"
+  }
+}
